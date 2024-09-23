@@ -1,0 +1,5 @@
+users:
+  - username: kanishk
+    role: admin
+  - username: vanya
+    role: readonly
