@@ -8,7 +8,5 @@ output "output" {
 
 // creating users
 
-resource "aws_iam_user" "main" {
-    name = 
-  
-}
+# resource "aws_iam_user" "main" {
+# }
